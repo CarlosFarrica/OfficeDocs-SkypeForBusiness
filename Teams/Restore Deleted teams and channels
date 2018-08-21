@@ -1,0 +1,98 @@
+Restore Deleted teams and channels from Microsoft Teams. 
+ 
+In this article we will explain the steps needed to make use of the recent feature that allows us to recover deleted teams and channels from Microsoft Teams. 
+ 
+Sometimes while we are managing our teams and channels around, accidentally we can remove an important team/channel, which can cause quite a negative impact, requiring us to take quick action to mitigate it in the most timely manner. 
+ 
+Restoring a deleted channel: 
+ 
+This process is immediate, meaning there will be no replication time needed so the channel will be available to all members as soon as it is restored.  
+ 
+Step 1. 
+ 
+Manage the team where the deleted channel belonged 
+ 
+ 
+ 
+ 
+Step 2. 
+ 
+Access the channels listing, and the channel will show under the “Deleted” list 
+ 
+ 
+ 
+ 
+Step 3.  
+ 
+Click the “Restore” option on the right-hand side of the screen 
+ 
+ 
+ 
+ 
+Step 4.  
+ 
+Finally confirm the restoration via the promp: 
+ 
+ 
+ 
+ 
+Restoring a deleted Team: 
+ 
+It’s important to understand that when you manage a Team under Microsoft Teams, you are directly affecting the Unified Office 365 Group, which originates from Exchange Online. 
+ 
+To this effect, when you delete a Team within the Microsoft Teams application, you are effectively deleting the entire Office 365 Group (as well outlined in the warning message).  
+ 
+ 
+ 
+This means that the restoration process will require replication between Office 365 services, which can take up to 24 hours to fulfill, however you can rest assured your messages, files, connectors, tabs, etc… will all be available. 
+ 
+ 
+Step 1. 
+ 
+First of all you will have to access your Office 365 Admin Portal, then the Exchange Admin Center 
+ 
+  
+ 
+ 
+Step 2. 
+ 
+Access the Group listing, under the Recipients menu 
+ 
+ 
+ 
+ 
+Step 3. 
+ 
+Confirm that the recently deleted team shows on the list and select it 
+ 
+ 
+ 
+Step 4. 
+ 
+On the right-hand side menu, click the “Click here to restore” option 
+ 
+ 
+ 
+Step 5. 
+ 
+Confirm the restoration request 
+ 
+ 
+ 
+Step 6. 
+ 
+The group should appear as active immediately: 
+ 
+ 
+ 
+Step 7. 
+ 
+Go back to the Office 365 Admin Portal and under the menu Groups then Groups again, confirm that the group is effectively showing up. 
+ 
+ 
+ 
+Step 8. 
+ 
+Wait up to 24 hours for the replication to take place 
+ 
+Note, at the time of this writing, this restore procedure requires the ownership to be restored, so any new owners need to be removed, and the original owners (prior to deletion) must be restored. 
