@@ -210,6 +210,7 @@ If you encounter devices showing an incorrect “unlicensed” status even thoug
 - For MTR-W devices, consult our documentation page on and follow the steps [here](/microsoftteams/troubleshoot/teams-rooms-and-devices/teams-rooms-resource-account-sign-in-issues) that outline how to sign in properly. 
 - For MTR-A devices, kindly open an incident with the TAC team to ensure that the correct account information is sent to the service. 
 
+**Note**: Switching from legacy licenses Teams Rooms Standard or Teams Rooms Premium to Teams Rooms Basic or Pro, license provisioning could take up from 24h to 48h to be active.
 
 ## Assigning additional licenses:
 
